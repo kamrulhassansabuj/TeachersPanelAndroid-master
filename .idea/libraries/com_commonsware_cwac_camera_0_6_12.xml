@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.commonsware.cwac:camera-0.6.12">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/camera-0.6.12.aar/ee56c2e50781c99bd6418ad72e5bd646/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/camera-0.6.12.aar/ee56c2e50781c99bd6418ad72e5bd646/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
